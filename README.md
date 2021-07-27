@@ -68,8 +68,8 @@
       <img
         src="https://cdn4.iconfinder.com/data/icons/adobe-apps/512/Premiere_pro-128.png"
         alt="premiere pro"
-        width="40"
-        height="40"
+        width="42"
+        height="42"
       />
   </a>
 </p>
