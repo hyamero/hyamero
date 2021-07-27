@@ -12,8 +12,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a>
     <a href="https://reactjs.org/" target="_blank">
@@ -60,8 +60,8 @@
       <img
         src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-128.png"
         alt="photoshop"
-        width="40"
-        height="40"
+        width="30"
+        height="30"
       />
   </a>
     <a href="https://www.adobe.com/sea/products/premiere.html" target="_blank">
