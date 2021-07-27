@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dale</h1>
 <h3 align="center">I'm new in programming, Aspiring Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyamero&label=Profile%20views&color=0e75b6&style=flat" alt="hyamero" /> </p>
-
 - 📫 How to reach me **daleban.dev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
