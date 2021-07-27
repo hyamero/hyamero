@@ -12,8 +12,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="35"
-      height="35"
+      width="34"
+      height="34"
     />
   </a>
     <a href="https://reactjs.org/" target="_blank">
@@ -68,8 +68,8 @@
       <img
         src="https://cdn4.iconfinder.com/data/icons/adobe-apps/512/Premiere_pro-128.png"
         alt="premiere pro"
-        width="42"
-        height="42"
+        width="40"
+        height="40"
       />
   </a>
 </p>
