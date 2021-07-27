@@ -12,8 +12,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="30"
-      height="30"
+      width="35"
+      height="35"
     />
   </a>
     <a href="https://reactjs.org/" target="_blank">
@@ -52,16 +52,16 @@
         <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
           alt="git"
-          width="40"
-          height="40"
+          width="36"
+          height="36"
         />
       </a>
     <a href="https://www.photoshop.com/en" target="_blank">
       <img
         src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-128.png"
         alt="photoshop"
-        width="30"
-        height="30"
+        width="35"
+        height="35"
       />
   </a>
     <a href="https://www.adobe.com/sea/products/premiere.html" target="_blank">
