@@ -58,7 +58,7 @@
       </a>
     <a href="https://www.photoshop.com/en" target="_blank">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-128.png"
         alt="photoshop"
         width="40"
         height="40"
