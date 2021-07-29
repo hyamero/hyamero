@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dale</h1>
-<h3 align="center">I'm new in programming, Aspiring Full Stack Developer</h3>
+<h3 align="center">Rookie in programming, Aspiring Full Stack Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
