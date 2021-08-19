@@ -1,78 +1,32 @@
 <h1 align="center">Hi 👋, I'm Dale</h1>
-<h3 align="center">Rookie in programming, Aspiring Full Stack Developer</h3>
+<p align="center">Self-Taught Web Developer</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="34"
-      height="34"
-    />
-  </a>
-    <a href="https://reactjs.org/" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
-        width="40"
-        height="40"
-      />
-    </a>
-      <a href="https://sass-lang.com" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-      </a>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://git-scm.com/" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="36"
-          height="36"
-        />
-      </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-      <img
-        src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-128.png"
-        alt="photoshop"
-        width="35"
-        height="35"
-      />
-  </a>
-    <a href="https://www.adobe.com/sea/products/premiere.html" target="_blank">
-      <img
-        src="https://cdn4.iconfinder.com/data/icons/adobe-apps/512/Premiere_pro-128.png"
-        alt="premiere pro"
-        width="40"
-        height="40"
-      />
-  </a>
+<h5 align="center">Languages and Tools:</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  height="25"/>
+   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  height="25"/>
+   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"  height="25"/>
+   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25"/>
+   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"  height="25"/>
+   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25"/>
+   <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  height="25"/>
+   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="25"/>
+   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" height="25"/>
+
+
 </p>
 
-![hyamero's Stats](https://github-readme-stats.vercel.app/api?username=hyamero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=hyamero&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=hyamero&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyamero&theme=tokyonight&layout=compact&hide_border=true"
+</div>
+
 
 
 
