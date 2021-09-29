@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dale</h1>
-<p align="center">Self-Taught Web Developer</p>
+<h3 align="center">Dale B. ⚡ Aspiring Full-Stack Web Developer & UI/UX Designer</h3>
 
-<h5 align="center">Languages and Tools:</h3>
 <p align="center">
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25"/>
-   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25"/>
-   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"  height="25"/>
-   <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  height="25"/>
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
-   <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=204056&logoWidth=15" height="25"/>
+   <img src="https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript&logoColor=007ACC" height="25"/>
+    <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="25"/>
+   <img src="https://img.shields.io/badge/Tailwind_CSS-%2320232a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"  height="25"/>
+   <img src="https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=F24E1E" height="25"/>
+   <img src="https://img.shields.io/badge/Photoshop-%2320232a?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" height="25"/>
 
 
 </p>
